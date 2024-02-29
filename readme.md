@@ -1,7 +1,5 @@
 FOR I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS PROGRAM THIS IS FOR EDUCATIONAL USE ONLY.
 
-and if you dont have a pc here is a android version of this program https://mega.nz/folder/1tcmVTJJ#4YZ01ZcNdoXsRSBCXbTM1g 
-
 
 ![codex](https://github.com/CodeXTM2/CodeXV4.9-NUKER/assets/161192727/d99cdea8-0ee5-465f-9f4d-06d72a4e34dc)
 
