@@ -67,3 +67,8 @@ Requirements
 • An active internet connection.
 
 and boom you are done just run CodexV4.9.9.0
+
+!disclaimer! make sure you run it with admin for it to load correctly might be buggy if loaded normally
+
+--------------------------------
+Android version coming soon...
